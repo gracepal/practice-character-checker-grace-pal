@@ -10,11 +10,11 @@ Small program to ask user for a string input and an index, then return the chara
 
 1. Clone repo
 
-- `git clone git@github.com:gracepal/practice-character-checker-grace-pal.git`
+- `git clone git@github.com:gracepal/practice-character-checker-grace-p.git`
 
 2. Navigate inside cloned repo
 
-- `cd practice-character-checker-grace-pal`
+- `cd practice-character-checker-grace-p`
 
 3. Install dependencies
 
