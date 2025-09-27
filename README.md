@@ -26,4 +26,5 @@ Small program to ask user for a string input and an index, then return the chara
 
 ### Example Program Output Reference
 
-<img width="512" height="353" alt="character-checker-screenshot-repo" src="https://github.com/user-attachments/assets/56b36d51-3153-480d-a571-ff9c3959a1ee" />
+<img width="496" height="340" alt="launchcode_character-checker-screenshot-repo" src="https://github.com/user-attachments/assets/7eb77f5c-65a8-465f-9695-6fd7b7128f4e" />
+
